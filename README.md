@@ -10,7 +10,7 @@
 - 🚀 I specialize in **Java (Spring Boot), Angular, Flutter, and DevOps automation**.
 - 💡 I love crafting clean architectures, building CI/CD pipelines, and turning ideas into production‑ready solutions.
 - 🌍 Based in **Sfax, Tunisia** – open to remote opportunities worldwide.
-- 📫 Reach me: **moez.messaoudi@email.com**
+- 📫 Reach me: **moezkchaoumail@gmail.com**
 
 ---
 
