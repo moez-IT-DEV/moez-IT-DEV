@@ -81,26 +81,10 @@ University partnership agreement management system with full CRUD, search, and t
 
 ---
 
-## 💼 Professional Experience Highlights
-
-**Full-Stack Developer & DevOps Engineer** – Freelance (2023 – Present)  
-- Real‑time railway breakdown management app (Flutter/Spring Boot) used by field technicians.  
-- DevOps automation with Docker & CI/CD pipelines – reduced manual deployment overhead.
-
-**E-Commerce Developer** – Green Shop (2017 – 2022)  
-- Built and maintained a full‑featured PrestaShop platform for eco‑friendly products; 5 years of consistent growth.
-
-**Full-Stack Developer Intern** – Znet-IT (2023)  
-- Architected the Z‑Doc system (Flutter + Spring Boot) that measurably improved team collaboration speed.
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moez-messaoudi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moez-IT-DEV)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moez.messaoudi@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moezkchaoumai@gmail.com)
 
 ---
-
-_“The only way to do great work is to love what you do.” – Steve Jobs_
