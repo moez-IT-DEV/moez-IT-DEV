@@ -47,32 +47,6 @@
 
 ---
 
-
-## 🏆 Featured Projects
-
-### 🗂️ Z-Doc – Document Management System
-*Flutter · Spring Boot · REST API*
-A full‑stack platform for uploading, categorising, full‑text search, and secure team sharing. Slashed document retrieval time and eliminated manual file transfers.
-- 📁 [Mobile App](https://github.com/moez-IT-DEV/Flutter_Document_Management_System)
-- 📁 [Backend API](https://github.com/moez-IT-DEV/File_management_System_api-master)
-
-### 🌐 Florist Management Application
-*Angular · Java (Spring Boot)*
-Catalogue management app with browsing, filtering, and ordering of floral arrangements – demonstrating end‑to‑end full‑stack capability.
-- 📁 [Source Code](https://github.com/moez-IT-DEV/florist-management-application)
-
-### 🌦️ OpenWeatherMap App
-*Angular · Java · OpenWeatherMap API*
-Live weather dashboard with multi‑day forecasts and historical data, built as a responsive SPA.
-- 📁 [Source Code](https://github.com/moez-IT-DEV/Open-Weather-Map-Angular)
-
-### 🏛️ IPSAS Convention Platform
-*Java EE · Servlets · MySQL*
-University partnership agreement management system with full CRUD, search, and tracking features.
-- 📁 [Source Code](https://github.com/moez-IT-DEV/projectConvention)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moez-messaoudi)
