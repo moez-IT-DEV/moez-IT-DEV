@@ -7,8 +7,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m a **Full-Stack Software Engineer** with 7+ years of combined experience delivering scalable web and mobile apps.
-- 🚀 I specialize in **Java (Spring Boot), Angular, Flutter, and DevOps automation**.
-- 💡 I love crafting clean architectures, building CI/CD pipelines, and turning ideas into production‑ready solutions.
+- 🚀 I specialize in **Python,Flutter,Android,Java(Spring Boot),Angular and DevOps automation**.
+- 💡 I love crafting clean architectures,building CI/CD pipelines, and turning ideas into production‑ready solutions.
 - 🌍 Based in **Sfax, Tunisia**.
 - 📫 Reach me: **moezkchaoumail@gmail.com**
 
